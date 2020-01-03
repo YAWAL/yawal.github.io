@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>title</title>
+      <title>Building ETL</title>
       <link>https://yawal.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 02 May 2019 14:18:55 +0100</pubDate>
       
       <guid>https://yawal.github.io/posts/my-first-post/</guid>
-      <description>jfnjkdnsjkfn kjefn wr regnerjwno erg rnjgneri</description>
+      <description>What is ETL</description>
+    </item>
+    
+    <item>
+      <title>ETL as webserver: high level architecture</title>
+      <link>https://yawal.github.io/posts/etl_architecture/</link>
+      <pubDate>Thu, 02 May 2019 14:18:55 +0100</pubDate>
+      
+      <guid>https://yawal.github.io/posts/etl_architecture/</guid>
+      <description>ETL as webserver: high level architecture</description>
     </item>
     
   </channel>

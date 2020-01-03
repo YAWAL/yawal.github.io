@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yawal.github.io/posts/</loc>
+    <loc>https://yawal.github.io/posts/my-first-post/</loc>
     <lastmod>2019-05-02T14:18:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yawal.github.io/posts/my-first-post/</loc>
+    <loc>https://yawal.github.io/posts/etl_architecture/</loc>
+    <lastmod>2019-05-02T14:18:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yawal.github.io/posts/</loc>
     <lastmod>2019-05-02T14:18:55+01:00</lastmod>
   </url>
   
